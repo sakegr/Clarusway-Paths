@@ -54,12 +54,14 @@ header h1 {
   display: block;
   margin-right: 30px;
   margin-top: 50px;
+  text-decoration: none;
 }
 
 .fs-btn:hover {
-  background-color: rgb(226, 222, 226);
+  background-color: rgb(157, 121, 157);
   box-shadow: 0.5px 0.5px black;
   padding: 11px 16px;
+  color: rgb(9, 9, 9);
 }
 
 .fs-btn a {
