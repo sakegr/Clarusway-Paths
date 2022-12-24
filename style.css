@@ -53,7 +53,7 @@ header h1 {
   border-style: none;
   display: block;
   margin-right: 30px;
-  margin-top: 50px;
+  /* margin-top: 30px; */
   text-decoration: none;
 }
 
@@ -84,7 +84,7 @@ header h1 {
 .info p {
   text-indent: 1rem;
   font-family: "Caramel", cursive;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   color: rgb(227, 227, 227);
   font-family: "Shadows Into Light", cursive;
 }
